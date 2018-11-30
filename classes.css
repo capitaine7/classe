@@ -1,0 +1,33 @@
+body{
+    background-color:grey;
+}
+.titr-coul{
+    color:blue;
+}
+.txt-coul{
+    border:solid; 
+    border-color:yellow;
+    background-color:cyan;
+}
+.header p{
+    color:purple;
+}
+.tail-police{
+ font-size:50px;
+}
+.faml-police{
+font-family:Helvetica;
+}
+.styl-police{
+ font-style:oblique;    
+}
+.text-center{
+ text-align: center;
+ text-decoration:overline; 
+}
+.text-lower{
+    text-orientation:upright;
+    text-align: right
+
+}
+
